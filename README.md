@@ -13,7 +13,7 @@ SchoolSearch2 is a new and improved take on my original School-Search. This new 
 
 
 
-# School-Search v1
+# SchoolSearch v1
 ### A cli tool to quickly and easily generate a college spread sheet.
 
 ## Setup
