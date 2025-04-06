@@ -11,7 +11,7 @@ SchoolSearch2 is a new and improved take on my original School-Search. This new 
 - portable: no more need to play around with setting up python simply add your API key at the beginning  of the program and your all good, use the executables or if you want to hard code your key download the code and add it to the main file in less than a minute you wont have to worry about it again.
 - better data: While the previous one relied on another website that had a risk of banning you for using it to web scrape while this one uses the US department of education score card for its data.
 
-\
+
 
 # School-Search v1
 ### A cli tool to quickly and easily generate a college spread sheet.
